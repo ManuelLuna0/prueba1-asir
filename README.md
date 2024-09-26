@@ -1,1 +1,7 @@
-# prueba1-asir
+# Manuel Luna Barranco
+## Sobre mí
+Estudié filosofía en la **UGR** y ahora soy estudiante de **ASIR** en el **CES Ramon y Cajal**.  
+Decidí formarme en administración de redes porque pienso que es una buena forma de enriquecer mi perfil profesional, desde pequeño he estado pegado al ordenador por lo que os podréis imaginar mi **interés tanto en IA como en ciberseguridad** ademas de en otros campos de la informática.  
+Las áreas de la filosofía que más suelo transitar van desde la **filosofía política** hasta la **filosofía de la mente** y las **ciencias cognitivas**, principalmente de estas dos últimas me atraén las **teorías no computacionalistas de la mente** como por ejemplo las **teorías 4E**. Mi TFG se ubica dentro de este campo de la filosofía de la mente, tratando el **problema tipológico de los delirios** que es la discusión acerca de qué tipo de estado mental conforman los delirios (si me preguntan a mi, diría que son un tipo de creencias irracionales anómalas, por lo que me enmarcaría en el bando doxásticista).  
+En cuanto al área de la informática, mis principales intereses están en el desarrollo de la IA y en la ciberseguridad, aunque mi conocimiento acerca de ambos temas es muy limitado. Aquellos que cursan ASIR y acceden al sector laboral de la ciberseguridad suelen estar empleados en el **equipo de defensa** o _blue team_ aunque actualmente no estoy seguro de si me interesa más el _red team_. Por otro lado, el desarrollo de la IA me interesa más por la parte filosófica que por la parte informática, pero estoy seguro de que aplicar a ese campo conocimientos informáticos sobre el tema sería muy enriquecedor (y viceversa).
+## Hobbies
