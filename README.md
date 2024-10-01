@@ -30,7 +30,9 @@ Una breve lista de mis memes de preferencia, para el ritmo de vida de internet a
 - Harambe
   ![imagen 2](https://imgs.search.brave.com/X_4LzPVgG9tORj9An9qtB5NxYLgRRx_QzdPexe_xkMY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pY2hl/Zi5iYmNpLmNvLnVr/L2FjZS9zdGFuZGFy/ZC85NzYvY3BzcHJv/ZHBiLzE4RjAvcHJv/ZHVjdGlvbi9fOTMw/NDgzNjBfaGkwMzMy/MjU3NzMuanBn)
 - Pink Guy (Para mi es especialmente gracioso que ahora sea Joji) ![imagen 3](https://imgs.search.brave.com/ENnqydT_-DAuEsoie9ei69E5qz7OVZe5mhF-cBm6uF4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuY2FwaXRhbGZt/LmNvbS8yMDIwLzQw/L2lzLWpvamktcGlu/ay1ndXktYXJlLXRo/ZXktdGhlLXNhbWUt/cGVyc29uLTE2MDIw/Nzc5MTEtdmlldy0w/LmpwZw)
-- Shitpost, así en general. ![shitpost1]()
+
+- Shitpost, así en general. ![shitpost1](https://imgs.search.brave.com/Gjz75Ou3J8BzLtTOthtNirngyEdQeK1oMPz0XdwHBuU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnJl/ZGQuaXQvZXN3bHo3/bTl5Y3JkMS5qcGVn)
+  [shitpost2]!()
 
 ## Contacto
 [Gmail](https://www.google.com/intl/es/gmail/about/) mlunbar540@ramonycajal.net
